@@ -1,13 +1,14 @@
 .slider-section {
   background-color: #3264fe;
-  height: 100vh;
+  /* height: 100vh; */
+  width: 500px;
   display: grid;
   place-items: center;
 }
 
 .wrapper {
   position: relative;
-  width: 95vmin;
+  width: 300px;
   background-color: #ffffff;
   padding: 50px 40px 20px 40px;
   border-radius: 10px;
